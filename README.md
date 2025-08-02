@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nkanata
 - 👀 I’m interested in learning and solving problems using code
-- 🌱 I’m currently learning Flutter, Docker
+- 🌱 I’m currently learning Artificial Intelligence, and how to apply AI/ML
 - 💞️ I’m looking to collaborate on android projects 
 - 📫 How to reach me ... nkanatamuthamia@gmail.com
 
